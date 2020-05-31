@@ -39,10 +39,6 @@ class ToggleSwitch(context: Context, attrs: AttributeSet?) : BaseToggleSwitch(co
         }
     }
 
-    fun getCheckedPosition() : Int {
-        return checkedPosition ?: -1
-    }
-
     fun setCheckedPosition(checkedPosition: Int) {
         this.checkedPosition = checkedPosition
         for ((index, toggleSwitchButton) in buttons.withIndex()) {
