@@ -9,7 +9,9 @@ class ToggleSwitch(context: Context, attrs: AttributeSet?) : BaseToggleSwitch(co
         fun onToggleSwitchChanged(position: Int)
     }
 
-    var checkedPosition: Int? = null
+    fun getCheckedPosition() : Int {
+        return checkedPosition ?: -1
+    }
     var onChangeListener : OnChangeListener? = null
 
 
