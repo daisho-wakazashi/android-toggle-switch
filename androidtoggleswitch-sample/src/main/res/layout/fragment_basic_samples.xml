@@ -20,7 +20,7 @@
                 style="@style/Label"
                 android:text="@string/two_items_switch_text"/>
 
-            <com.llollox.androidtoggleswitch.widgets.ToggleSwitch
+            <com.wozverine.androidtoggleswitch.widgets.ToggleSwitch
                 android:id="@+id/twoItemsToggleSwitch"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -31,7 +31,7 @@
                 style="@style/Label"
                 android:text="@string/three_items_switch_text"/>
 
-            <com.llollox.androidtoggleswitch.widgets.ToggleSwitch
+            <com.wozverine.androidtoggleswitch.widgets.ToggleSwitch
                 android:id="@+id/threeItemsToggleSwitch"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -43,7 +43,7 @@
                 style="@style/Label"
                 android:text="@string/n_items_switch_text"/>
 
-            <com.llollox.androidtoggleswitch.widgets.ToggleSwitch
+            <com.wozverine.androidtoggleswitch.widgets.ToggleSwitch
                 android:id="@+id/nItemsToggleSwitch"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -53,7 +53,7 @@
                 style="@style/Label"
                 android:text="@string/multi_select_items_switch_text"/>
 
-            <com.llollox.androidtoggleswitch.widgets.MultipleToggleSwitch
+            <com.wozverine.androidtoggleswitch.widgets.MultipleToggleSwitch
                 android:id="@+id/multipleToggleSwitch"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -63,7 +63,7 @@
                 style="@style/Label"
                 android:text="@string/disabled"/>
 
-            <com.llollox.androidtoggleswitch.widgets.ToggleSwitch
+            <com.wozverine.androidtoggleswitch.widgets.ToggleSwitch
                 android:id="@+id/disabledToggleSwitch"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

@@ -16,7 +16,7 @@
             style="@style/Label"
             android:text="@string/basic_separated"/>
 
-        <com.llollox.androidtoggleswitch.widgets.ToggleSwitch
+        <com.wozverine.androidtoggleswitch.widgets.ToggleSwitch
             android:id="@+id/operatorsSeparatedToggleSwitch"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -28,7 +28,7 @@
             style="@style/Label"
             android:text="@string/circle_separated"/>
 
-        <com.llollox.androidtoggleswitch.widgets.ToggleSwitch
+        <com.wozverine.androidtoggleswitch.widgets.ToggleSwitch
             android:id="@+id/planetsSeparatedCircleToggleSwitch"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

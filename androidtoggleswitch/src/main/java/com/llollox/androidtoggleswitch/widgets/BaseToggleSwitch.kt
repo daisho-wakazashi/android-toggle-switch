@@ -1,4 +1,4 @@
-package com.llollox.androidtoggleswitch.widgets
+package com.wozverine.androidtoggleswitch.widgets
 
 import android.content.Context
 import android.os.Build
@@ -11,7 +11,7 @@ import android.widget.TextView
 import androidx.annotation.RequiresApi
 import androidx.core.content.ContextCompat
 import androidx.core.view.ViewCompat
-import com.llollox.androidtoggleswitch.R
+import com.wozverine.androidtoggleswitch.R
 import java.util.*
 
 abstract class BaseToggleSwitch : LinearLayout, ToggleSwitchButton.Listener {

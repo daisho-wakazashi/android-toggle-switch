@@ -1,4 +1,4 @@
-package com.llollox.androidtoggleswitch_sample;
+package com.wozverine.androidtoggleswitch_sample;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -6,9 +6,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.llollox.androidtoggleswitch.widgets.MultipleToggleSwitch;
-import com.llollox.androidtoggleswitch.widgets.ToggleSwitch;
-import com.llollox.androidtoggleswitch_sample.databinding.FragmentBasicSamplesBinding;
+import com.wozverine.androidtoggleswitch.widgets.MultipleToggleSwitch;
+import com.wozverine.androidtoggleswitch.widgets.ToggleSwitch;
+import com.wozverine.androidtoggleswitch_sample.databinding.FragmentBasicSamplesBinding;
 
 
 /**

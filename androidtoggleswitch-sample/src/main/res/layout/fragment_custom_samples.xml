@@ -20,7 +20,7 @@
                 style="@style/Label"
                 android:text="@string/match_parent_width"/>
 
-            <com.llollox.androidtoggleswitch.widgets.ToggleSwitch
+            <com.wozverine.androidtoggleswitch.widgets.ToggleSwitch
                 android:id="@+id/matchParentWidthToggleSwitch"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -30,7 +30,7 @@
                 style="@style/Label"
                 android:text="@string/custom_colors"/>
 
-            <com.llollox.androidtoggleswitch.widgets.ToggleSwitch
+            <com.wozverine.androidtoggleswitch.widgets.ToggleSwitch
                 android:id="@+id/customColorsToggleSwitch"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -45,7 +45,7 @@
                 style="@style/Label"
                 android:text="@string/custom_sizes"/>
 
-            <com.llollox.androidtoggleswitch.widgets.ToggleSwitch
+            <com.wozverine.androidtoggleswitch.widgets.ToggleSwitch
                 android:id="@+id/customSizesToggleSwitch"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -59,7 +59,7 @@
                 style="@style/Label"
                 android:text="@string/custom_borders"/>
 
-            <com.llollox.androidtoggleswitch.widgets.MultipleToggleSwitch
+            <com.wozverine.androidtoggleswitch.widgets.MultipleToggleSwitch
                 android:id="@+id/customBordersToggleSwitch"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -73,7 +73,7 @@
                 style="@style/Label"
                 android:text="@string/no_separator"/>
 
-            <com.llollox.androidtoggleswitch.widgets.ToggleSwitch
+            <com.wozverine.androidtoggleswitch.widgets.ToggleSwitch
                 android:id="@+id/noSeparatorToggleSwitch"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

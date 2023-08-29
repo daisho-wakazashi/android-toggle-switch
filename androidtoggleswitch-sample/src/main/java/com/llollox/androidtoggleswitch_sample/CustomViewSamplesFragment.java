@@ -1,4 +1,4 @@
-package com.llollox.androidtoggleswitch_sample;
+package com.wozverine.androidtoggleswitch_sample;
 
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
@@ -9,9 +9,9 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.llollox.androidtoggleswitch.widgets.ToggleSwitch;
-import com.llollox.androidtoggleswitch.widgets.ToggleSwitchButton;
-import com.llollox.androidtoggleswitch_sample.databinding.FragmentCustomViewSamplesBinding;
+import com.wozverine.androidtoggleswitch.widgets.ToggleSwitch;
+import com.wozverine.androidtoggleswitch.widgets.ToggleSwitchButton;
+import com.wozverine.androidtoggleswitch_sample.databinding.FragmentCustomViewSamplesBinding;
 
 /**
  * Created by rigatol on 23/06/2017.

@@ -1,4 +1,4 @@
-package com.llollox.androidtoggleswitch.widgets
+package com.wozverine.androidtoggleswitch.widgets
 
 /**
  * Created by lorenzorigato on 24/06/2017.

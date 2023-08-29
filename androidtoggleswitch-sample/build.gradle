@@ -9,7 +9,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.llollox.androidtoggleswitch_sample"
+        applicationId "com.wozverine.androidtoggleswitch_sample"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode 1
@@ -32,6 +32,6 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     implementation project(':androidtoggleswitch')
 
-//    compile 'com.llollox:androidtoggleswitch:2.0.1'
+//    compile 'com.wozverine:androidtoggleswitch:2.0.1'
 
 }

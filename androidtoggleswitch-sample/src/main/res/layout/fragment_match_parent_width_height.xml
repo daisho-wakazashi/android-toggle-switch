@@ -15,7 +15,7 @@
             style="@style/Label"
             android:text="@string/match_parent_width_and_height"/>
 
-        <com.llollox.androidtoggleswitch.widgets.ToggleSwitch
+        <com.wozverine.androidtoggleswitch.widgets.ToggleSwitch
             android:id="@+id/matchParentWidthToggleSwitch"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
